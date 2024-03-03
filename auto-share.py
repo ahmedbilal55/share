@@ -124,7 +124,7 @@ def login():
      \033[1;95m[\033[1;93m[>]\033[1;95m]\033[1;93m TIKTOK \033[1;91m :  \033[1;91mPRIVATE
     \33[1;32m====================================================
     """)
-    cetak(nel(f'\n \t {H2}  AHMED FB AUTO SHARE TOOLS BRO \n\n \t\t {H2}~[{K2} A{K2}D{K2}N{K2}A{K2}N{K2}🌺 {H2}]~',
+    cetak(nel(f'\n \t {H2}  AHMED FB AUTO SHARE TOOLS BRO \n\n \t\t {H2}~[{K2} A{K2}H{K2}M{K2}E{K2}D{K2}🌺 {H2}]~',
               title=f'{P2}  {H2}[{K2} A{K2}D{K2}N{K2}A{K2}N{K2} {K2}T{K2}E{K2}R{K2}M{K2}U{K2}X {K2}H{K2}E{K2}L{K2}P{K2}I{K2}N{K2}G {K2}Z{K2}O{K2}N{K2}E {H2}]',
               width=54, padding=(1, 4), style='blue'))
     cetak(nel(f'\t\t{H2}𝔽ℝ𝔼𝕊ℍ ℂ𝕆𝕆𝕂𝕀𝔼 𝔸𝔻𝔻 𝕂ℝ𝔼ℕ 𝐎𝐊  \n\n \t\t  {N2} FRESH COOKIE ', subtitle=f'{P2}┌─[ {K2}Cookies Room ]',
